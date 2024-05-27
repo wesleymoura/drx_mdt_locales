@@ -155,8 +155,8 @@
       "EDIT": "Editar equipe {identifier}",
       "DATA": "Dados",
       "NO_ACTIVITY": "Sem atividade ainda",
-      "CLOCKED_IN": "Registrado",
-      "CLOCKED_OUT": "Desregistrado",
+      "CLOCKED_IN": "Trabalhar",
+      "CLOCKED_OUT": "Folgar",
       "SUSPEND": "Suspender",
       "FIRE": "Demitir"
     },
