@@ -280,7 +280,8 @@
       "CATEGORIES": {
         "LABEL": "Categorias"
       }
-    },
+    }
+  },
     
     "DATE": {
       "YEAR": "ano",
@@ -307,8 +308,8 @@
     "UNKNOWN_CATEGORY": "Categoria Desconhecida",
     
     "STATEID": "ID do Estado: (#{identifier})",
-    "FULLNAME": "Nome completo: {fullname}",
-    "BADGENUMBER": "Nº do distintivo: {badgenumber}",
+    "FULLNAME": "Nome Completo: {fullname}",
+    "BADGENUMBER": "Nº do Distintivo#: {badgenumber}",
     "CREATED_BY": "Criado por: {user}",
     "TAG": "(#{identifier}) {fullname}",
     "POSTED_BY": "Postado por: {user}",
